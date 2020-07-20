@@ -12,10 +12,10 @@ DESCRIBE employees;
 
 # Answer to number 6: salaries
 
-# Answer to number 7: titles
+# Answer to number 7: titles, departments
 
 # Answer to number 8: employees, salaries
 
-# Answer to number 9: There doesn't seem to be any overlap in the variables in each table. Both tables have all NULL, require the fields to all be filled. The primary keys are both numbers, but the dept_no takes in a char, and the emp_no takes in an int. They are both within the employees database, and there are other tables that seem related to each such as dept_emp and employees_with_departments.
+# Answer to number 9: There doesn't seem to be any overlap in the variables in each table. Both tables have all NULL, require the fields to all be filled. They are both within the employees database, and there are other tables that seem related to each such as dept_emp and employees_with_departments.
 
 show create table dept_manager;
