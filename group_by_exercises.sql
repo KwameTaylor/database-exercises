@@ -1,3 +1,0 @@
-use employees;
-
-SELECT titles
